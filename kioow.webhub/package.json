@@ -1,0 +1,19 @@
+{
+  "name": "kioow.webhub",
+  "version": "1.0.1",
+  "description": "kioow.webhub",
+  "main": "app.js",
+  "author": {
+    "name": "Xisco Rossello",
+    "email": "kioow@outlook.com"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "morgan": "^1.7.0",
+    "serve-favicon": "^2.3.0",
+    "underscore": "^1.8.3",
+    "vhost": "^3.0.2"
+  }
+}
